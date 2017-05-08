@@ -1,17 +1,20 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 
 % Text is probably in finnish. Set the language here.
 \usepackage[finnish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
 
+\usepackage[ddmmyyyy]{datetime}
+\renewcommand{\dateseparator}{.}
+
 % Adjust marginals and page size here.
 \usepackage{geometry}
 \geometry{a4paper,
-	top=1.25in,
-	bottom=1.25in,
-	left=1.25in,
-	right=1.25in
+	top=1.0in,
+	bottom=1.0in,
+	left=1.0in,
+	right=1.0in
 }
 
 % Set indentation
@@ -49,8 +52,14 @@
 
 \begin{document}
 
-\maketitle
+\input{coverpage.tex}
+\tableofcontents
 
+\section{Johdanto}
+\section{Työn tavoite}
+\section{Teoria, aineisto, menetelmä}
+\section{Aikataulusuunnitelma}
+\section*{Lähdeluettelo}
 
 
 \end{document}
