@@ -11,14 +11,14 @@
 % Adjust marginals and page size here.
 \usepackage{geometry}
 \geometry{a4paper,
-	top=1.0in,
-	bottom=1.0in,
-	left=1.0in,
-	right=1.0in
+	top=0.75in,
+	bottom=0.75in,
+	left=0.75in,
+	right=0.75in
 }
 
 % Set indentation
-\setlength{\parindent}{1.5em}
+\setlength{\parindent}{0em}
 
 % Set paragraph break length
 \setlength{\parskip}{1em}
@@ -46,7 +46,7 @@
 \cfoot{}
 \rfoot{}
 
-\title{Hello World.}
+\title{}
 \author{Ville Kumpulainen}
 
 
@@ -54,12 +54,18 @@
 
 \input{coverpage.tex}
 \tableofcontents
+\newpage
 
 \section{Johdanto}
+\input{intro.tex}
 \section{Työn tavoite}
+\input{goal.tex}
 \section{Teoria, aineisto, menetelmä}
+\input{theory.tex}
 \section{Aikataulusuunnitelma}
+\input{schedule.tex}
 \section*{Lähdeluettelo}
+\input{sources.tex}
 
 
 \end{document}
