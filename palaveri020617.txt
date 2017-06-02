@@ -1,0 +1,103 @@
+Tavoite:
+missä mennään? Sopia tavoite. Miten saadaan prosessi etenemään?
+
+Haut voi tehdä itse.
+
+Inclusion exclusion päätökset on tärkeät, ne tehdään itse.
+
+Pitää hiffata menetelmä, ettei kukaan pääse missään raossa väittämään, että olis
+jäänyt jotain katsomatta.
+
+Esim 3. chapter, missä selitetään tutkimusmenetelmä.
+
+voiton ainesosat: kandissa tehty koodaus huonosti, dipassa hyvin.
+
+Pitää valita tagit sillä tavalla, että kerää viitteitä.
+
+Jos heittää tägin konseptiin, niin voi mennä aiheesta ohi, jos ei ole tarkka.
+
+Prosessi
+
+I kierros
+========
+
+1. Haku
+	HUOM, hae vain abstrakteista ja metadatoista, EI FULL TEXTISTÄ, tulee liikaa
+	false positivea
+
+2. Inclusion / exclusion
+
+3. Koodaus
+
+Tehdään yksi harjoitus koodauksesta, jotta menee hyvin ja ymmärtää.
+
+Ei saa ottaa liian pitkiä pätkiä.
+
+Käytettiin Jabreffiä.
+
+github: kdikert - aaltoagiletransformation
+
+lataa Atlas.ti löytyy download.aalto.fi
+
+
+Prosessi-runko
+
+1. Vapaa haku
+	- Ilmiselvät hakusanat, saa tatsin, mitä tulee
+2. Kimin haut, samat tietokannat, samat hakulausekkeet
+	- Pitää saada bibte[x/c] muodossa
+3. Yhdistä .bib-tiedostot
+4. Lämmittely+keskustelu 100 kpl abstakteja
+5. Annotoi .bib -tiedostot
+	- selkeä inclusion
+	- selkeä exclusion
+	- unsure, katsotaan marian ja ehkä casperin kanssa
+	=> Käytä Jabref -ohjelmaa
+
+6. Maria tekee saman annotoinnin
+
+
+Bibtexiin voi lisätä vapaita parametrejä.
+=> TSEKKAA MITÄ KIM ON TEHNYT
+
+Jabreffiin voi klikata "Näytä villen arvio", eli näyttää omat kentät.
+
+Tee jutukat, tallenna, laita marialla, marialta piilotetaan villen merkinnät.
+Sit overridetaan marian tiedosto gittiin, on molempien merkinnät olemassa.
+
+Sit ku näkyy molempien arviot, aletaan sorttaamaan.
+Ensisijaisesti sortataan oman arvion perusteella.
+Sit sortataan marian arvion mukaan.
+
+HARJOITTELUKESKUSTELU TOSI TÄRKEÄ
+jotta yhteinen käsitys, mitkä on hyviä
+
+
+7. In-in / out-out => fixaa
+8. Kaikista muista keskustellaan case-by-case
+=========
+1-kierroksen referenssit. (epäselvät mukaan full text-seulantaan)
+==> 2-kierros = full text
+
+
+II Kierros - Full text filtering
+==========
+
+1.  kaikki I-kierroksen artikkelit excelin
+	- Katso mallia kimin reposta: fulltext.ods
+	- Tallenna enemmän tietoa heti alkuun "metadata"
+	- Jos selkeä in, yhdellä lauseella tiivistelmä, miksi on hyvä case
+	- VERSIONHALLINTAA KAIKKIALLE
+	- Lataa kaikki pdf:t artikkeleista
+
+2. 2 arvioijaa erillään sorttaa:
+	- in / out / unsure
+	- muistiinpanot kaikkiin! Lauseen tiivistelmä exceliin
+
+3. in-in / out-out erilleen
+
+4. Kaikki muut kombinaatiot keskustellaan
+====
+Fulltextit valittu
+
+
