@@ -1,0 +1,22 @@
+Integrating agile methods into a level 5 cmmi dev organization
+
+Berger & eklund
+
+Budacu et al: Todnäk exclude, mutta ei voi sanoa suoraan.
+
+Capodieci: Otetaan mukaan,
+
+Azanha: Otetaan mukaan, tsekataan oliko alun perin waterfall ja siirryttiin agileen
+
+Bider & Soderberg: Katsotaan full textiin
+
+Brown et al: katsotaan full text
+
+Alashqur: Jättää pois
+
+Bishop et al: Jätetään pois
+
+Bass: Otetaan varmuuden vuoksi mukaan
+
+Kaikki yhteen tiedostoon: päällekkäiset pois, kimin päällekkäiset pois!
+Kysy kimiltä, oliko acm:n artikkeleissa abstraktit.
