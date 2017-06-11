@@ -1,0 +1,104 @@
+\documentclass{article}
+
+% Text is probably in finnish. Set the language here.
+\usepackage[finnish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{framed}
+\usepackage{lastpage}
+\usepackage{lipsum}
+\usepackage{parcolumns}
+
+% Adjust marginals and page size here.
+\usepackage{geometry}
+\geometry{a4paper,
+	top=1.25in,
+	bottom=1.25in,
+	left=1.25in,
+	right=1.25in
+}
+
+% Set indentation
+\setlength{\parindent}{1.5em}
+
+% Set paragraph break length
+\setlength{\parskip}{1em}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.5}
+
+% Make use of headers
+\pagestyle{fancy}
+\fancyhf{}
+
+% Set top horizontal line width
+\renewcommand{\headrulewidth}{0pt}
+
+% Set footer horizontal line width
+\renewcommand{\footrulewidth}{0pt}
+
+% Set header contents
+\lhead{}
+\chead{}
+\rhead{}
+
+% Set footer contents
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+\author{Ville Kumpulainen}
+
+
+\begin{document}
+
+\input{first_cover.tex}
+\input{coverpage.tex}
+\input{abstract.tex}
+\tableofcontents
+\newpage
+\section*{Abbreviations}
+\input{abbrev.tex}
+\newpage
+
+\section{Introduction}
+\input{intro.tex}
+
+\section{Background}
+\lipsum[1]
+\subsection{Agile software development}
+\lipsum[2]
+\subsection{Adopting agile methods in large organizations}
+\lipsum[3]
+\subsection{Definition of large scale agile}
+\lipsum[4]
+
+\section{Research Method}
+\lipsum[4]
+\subsection{Research questions}
+\lipsum[5]
+\subsection{Research process}
+\lipsum[6]
+\subsubsection{Inclusion criteria}
+\lipsum[7]
+\subsubsection{Preliminary searches}
+\lipsum[8]
+\subsubsection{Identification of primary studies}
+\lipsum[9]
+
+\subsection{Definition of large scale agile}
+\lipsum[8]
+
+\section{Results}
+\lipsum[8]
+\lipsum[9]
+\lipsum[10]
+\lipsum[11]
+
+\section{Discussion}
+\lipsum[12]
+\lipsum[13]
+\lipsum[14]
+\lipsum[15]
+
+\end{document}
