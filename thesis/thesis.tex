@@ -7,6 +7,8 @@
 \usepackage{lastpage}
 \usepackage{lipsum}
 \usepackage{parcolumns}
+\usepackage{graphicx}
+\usepackage{ragged2e}
 
 % Adjust marginals and page size here.
 \usepackage{geometry}
@@ -18,10 +20,14 @@
 }
 
 % Set indentation
-\setlength{\parindent}{1.5em}
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
+
 
 % Set paragraph break length
-\setlength{\parskip}{1em}
+\setlength{\parskip}{3pt}
 
 % Set line spacing
 \renewcommand{\baselinestretch}{1.5}
@@ -91,8 +97,8 @@
 \input{results.tex}
 \subsection{Overview of studies}
 \input{overview.tex}
-\subsubsection{Organizations}
-\input{orgs.tex}
+%\subsubsection{Organizations}
+%\input{orgs.tex}
 \subsubsection{Agile methods applied}
 \input{agile_methods.tex}
 \subsection{Reasons to change}
