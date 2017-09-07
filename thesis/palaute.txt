@@ -1,0 +1,34 @@
+Ideoita:
+- Scaling framework for large-scale agile
+	- Puhutaanko niistä?
+	- Kirjoita nistä, tee taulukko, minkälaisia + infoa, miten eroaa
+
+agilescalingmatrix, tutki tätä
+	- Keskustelussa käsitellään, mitä on olemassa ja käyetty, tai miksi ei
+	käytetty
+
+Keskustele, mikä vuoksi challenges ja success factors on jätetty pois, jos
+jätetään pois.
+
+Taulukko kontekstista
+
+Firmat, paperit, kontekstitiedot. 2 taulukkoa molemmista
+
+Lisäksi taulukko agilemenetelmistä
+
+Keskustelussa voisi keskustella, eroaako kimin paperista, voi viitata vaikkei
+julkaisut. Onko viime vuosina tullut uusia syitä reasons to changiin,
+
+Tee taulukko transformation prosessista, avaa näitä.
+
+Keskustelu:
+	- Molempien kysymysten osalta voisi keskustella kimin artikkeliin viitaten,
+	mitä on muuttunut ja mitä on erilaista.
+
+ - unpublished manuscript
+
+- Korjaa viitteet
+
+
+- Puhu alussa niistä papereista, jotka on otettu vuodelta 2013 mutta karsittu
+pois duplikaatteina kimin arvioimina
