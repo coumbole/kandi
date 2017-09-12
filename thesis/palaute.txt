@@ -1,3 +1,6 @@
+Palaute vol 1
+=============
+
 agilescalingmatrix, tutki tätä
 	- Keskustelussa käsitellään, mitä on olemassa ja käyetty, tai miksi ei
 	käytetty
@@ -5,5 +8,23 @@ agilescalingmatrix, tutki tätä
 Keskustelussa voisi keskustella, eroaako kimin paperista, voi viitata vaikkei
 julkaisut. Onko viime vuosina tullut uusia syitä reasons to changiin,
 
-
 - Korjaa viitteet
+
+----
+
+Palaute vol 2
+============
+
+Lean-change pois frameworkeistä, käsittele
+
+Tsekkaa myös Am-QuICK, onko oikea framework?
+
+Jos on, esittele sitten.
+
+Keskustele, miksi ei käytetty scaling frameworkkejä
+
+Viittaa vain dikert et al
+
+Muuta hakuja käsittelevästä kohdasta ajankohta 2014 -> 2013
+
+Kirjoita auki loputkin kappaleet
