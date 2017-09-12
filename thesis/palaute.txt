@@ -1,8 +1,3 @@
-Ideoita:
-- Scaling framework for large-scale agile
-	- Puhutaanko niistä?
-	- Kirjoita nistä, tee taulukko, minkälaisia + infoa, miten eroaa
-
 agilescalingmatrix, tutki tätä
 	- Keskustelussa käsitellään, mitä on olemassa ja käyetty, tai miksi ei
 	käytetty
@@ -10,8 +5,5 @@ agilescalingmatrix, tutki tätä
 Keskustelussa voisi keskustella, eroaako kimin paperista, voi viitata vaikkei
 julkaisut. Onko viime vuosina tullut uusia syitä reasons to changiin,
 
-Keskustelu:
-	- Molempien kysymysten osalta voisi keskustella kimin artikkeliin viitaten,
-	mitä on muuttunut ja mitä on erilaista.
 
 - Korjaa viitteet
