@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{ragged2e}
+\usepackage{setspace}
 
 % Adjust marginals and page size here.
 \usepackage{geometry}
@@ -50,7 +51,7 @@
 
 % Set footer contents
 \lfoot{}
-\cfoot{}
+\cfoot{\thepage}
 \rfoot{}
 
 \author{Ville Kumpulainen}
@@ -58,16 +59,19 @@
 
 \begin{document}
 
+\clearpage
+\pagenumbering{roman}
 \input{first_cover.tex}
 \input{coverpage.tex}
+\addcontentsline{toc}{section}{Abstract}
 \input{abstract.tex}
-\newpage
-\tableofcontents
-\newpage
-\section*{Abbreviations}
-\input{abbrev.tex}
-\newpage
+\clearpage
+{\setstretch{0.9}\tableofcontents}
 
+\clearpage
+
+\pagenumbering{arabic}
+\clearpage
 \section{Introduction}
 \input{intro.tex}
 
