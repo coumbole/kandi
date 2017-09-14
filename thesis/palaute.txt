@@ -15,15 +15,7 @@ julkaisut. Onko viime vuosina tullut uusia syitä reasons to changiin,
 Palaute vol 2
 ============
 
-Lean-change pois frameworkeistä, käsittele
-
-Tsekkaa myös Am-QuICK, onko oikea framework?
-
-Jos on, esittele sitten.
-
 Keskustele, miksi ei käytetty scaling frameworkkejä
-
-Viittaa vain dikert et al
 
 Muuta hakuja käsittelevästä kohdasta ajankohta 2014 -> 2013
 
